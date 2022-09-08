@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Data-Store/static/css/main.3c101e8d.css",
+    "main.js": "/Data-Store/static/js/main.922aa8a5.js",
+    "index.html": "/Data-Store/index.html",
+    "main.3c101e8d.css.map": "/Data-Store/static/css/main.3c101e8d.css.map",
+    "main.922aa8a5.js.map": "/Data-Store/static/js/main.922aa8a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c101e8d.css",
+    "static/js/main.922aa8a5.js"
+  ]
+}
